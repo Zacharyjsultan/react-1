@@ -7,7 +7,7 @@ import Monkeys from './Components/Monkeys';
 function App() {
   return (
     <>
-      <div> POOP </div>
+      <div> POOPy </div>
       <Monkeys name="Chongo" age={99} />
       <Monkeys name="Aburido" age={2} />
       <Button variant="text">Text</Button>
